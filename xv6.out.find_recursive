@@ -1,0 +1,15 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ mkdir SjusECRo
+$ echo > SjusECRo/kf0YLrgZ
+$ mkdir SjusECRo/Xj4a7Knz
+$ echo > SjusECRo/Xj4a7Knz/kf0YLrgZ
+$ mkdir rlWWdaak
+$ echo > rlWWdaak/kf0YLrgZ
+$ find . kf0YLrgZ
+exec find failed
+$ qemu-system-riscv64: terminating on signal 15 from pid 2288 (make)
