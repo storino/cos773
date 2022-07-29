@@ -1,1 +1,1 @@
-user/pingpong.o: user/pingpong.c user/../kernel/types.h user/user.h
+user/pingpong.o: user/pingpong.c kernel/types.h kernel/stat.h user/user.h
